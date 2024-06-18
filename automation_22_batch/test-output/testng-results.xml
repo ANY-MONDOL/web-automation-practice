@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-06T17:25:54 BDT" name="Default suite" finished-at="2024-06-06T17:26:43 BDT" duration-ms="49261">
+    <groups>
+    </groups>
+    <test started-at="2024-06-06T17:25:54 BDT" name="Default test" finished-at="2024-06-06T17:26:43 BDT" duration-ms="49261">
+      <class name="com.it.bd.TabAndWindowHandling">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.TabAndWindowHandling@27f981c6]" started-at="2024-06-06T17:25:48 BDT" name="start" finished-at="2024-06-06T17:25:54 BDT" duration-ms="5408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="windowTest()[pri:0, instance:com.it.bd.TabAndWindowHandling@27f981c6]" started-at="2024-06-06T17:25:54 BDT" name="windowTest" finished-at="2024-06-06T17:26:43 BDT" duration-ms="49125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowTest -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.it.bd.TabAndWindowHandling@27f981c6]" started-at="2024-06-06T17:26:43 BDT" name="quit" finished-at="2024-06-06T17:26:45 BDT" duration-ms="1892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.it.bd.TabAndWindowHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
